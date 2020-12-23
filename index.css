@@ -1,0 +1,28 @@
+body {
+  max-width: 1200px;
+  background-color: #E5E5F7;
+  opacity: 1;
+  background-image:  radial-gradient(#497e4a 2px, transparent 2px), radial-gradient(#497e4a 2px, #E5E5F7 2px);
+  background-size: 80px 80px;
+  background-position: 0 0,40px 40px;
+}
+
+.book-container-5fe358dbd8068b001715962b {
+  display: inline-block;
+  float: left;
+}
+
+.main {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.window {
+  width: 300px;
+  margin: 20px 300px;
+}
+
+button {
+  margin: 0 auto;
+  display: inline-block;
+}
